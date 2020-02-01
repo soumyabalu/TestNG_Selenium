@@ -1,0 +1,1 @@
+This project was done to learn how to use global environment variables and to reuse it.

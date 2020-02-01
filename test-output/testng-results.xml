@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="6" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8872" started-at="2020-01-31T18:16:34 EST" finished-at="2020-01-31T18:16:43 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8872" started-at="2020-01-31T18:16:34 EST" finished-at="2020-01-31T18:16:43 EST">
+      <class name="Secondtestbase.Scope">
+        <test-method status="PASS" signature="homelogin()[pri:0, instance:Secondtestbase.Scope@4fe3c938]" name="homelogin" duration-ms="5094" started-at="2020-01-31T18:16:34 EST" finished-at="2020-01-31T18:16:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homelogin -->
+        <test-method status="PASS" signature="manager()[pri:0, instance:Secondtestbase.Scope@4fe3c938]" name="manager" duration-ms="15" started-at="2020-01-31T18:16:39 EST" finished-at="2020-01-31T18:16:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Secondtestbase.Scope@4fe3c938]" name="login" duration-ms="3647" started-at="2020-01-31T18:16:39 EST" finished-at="2020-01-31T18:16:43 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="software()[pri:0, instance:Secondtestbase.Scope@4fe3c938]" name="software" duration-ms="0" started-at="2020-01-31T18:16:43 EST" finished-at="2020-01-31T18:16:43 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- software -->
+        <test-method status="PASS" signature="personalloan()[pri:0, instance:Secondtestbase.Scope@4fe3c938]" name="personalloan" duration-ms="0" started-at="2020-01-31T18:16:43 EST" depends-on-methods="Secondtestbase.Scope.homelogin" finished-at="2020-01-31T18:16:43 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personalloan -->
+      </class> <!-- Secondtestbase.Scope -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
